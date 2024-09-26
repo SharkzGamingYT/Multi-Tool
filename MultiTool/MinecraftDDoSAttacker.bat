@@ -1,0 +1,1 @@
+java -jar C:\Users\danij\OneDrive\Desktop\BatFilez/SimpleMinecraftDDoS.jar
